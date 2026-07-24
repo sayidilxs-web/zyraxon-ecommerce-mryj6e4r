@@ -1,13 +1,13 @@
 import { useState, useEffect, useCallback, useRef } from 'react';
-import headphonesImg from '../assets/images/headphones.jpg';
-import smartwatchImg from '../assets/images/smartwatch.jpg';
-import sneakersImg from '../assets/images/sneakers.jpg';
-import sunglassesImg from '../assets/images/sunglasses.jpg';
-import cameraImg from '../assets/images/camera.jpg';
-import perfumeImg from '../assets/images/perfume.jpg';
-import backpackImg from '../assets/images/backpack.jpg';
-import walletImg from '../assets/images/wallet.jpg';
-import keyboardImg from '../assets/images/keyboard.jpg';
+import headphonesImg from './assets/images/headphones.jpg';
+import smartwatchImg from './assets/images/smartwatch.jpg';
+import sneakersImg from './assets/images/sneakers.jpg';
+import sunglassesImg from './assets/images/sunglasses.jpg';
+import cameraImg from './assets/images/camera.jpg';
+import perfumeImg from './assets/images/perfume.jpg';
+import backpackImg from './assets/images/backpack.jpg';
+import walletImg from './assets/images/wallet.jpg';
+import keyboardImg from './assets/images/keyboard.jpg';
 
 /* ========== TYPES ========== */
 interface Product {
