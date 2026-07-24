@@ -1,0 +1,42 @@
+{
+  "id": "zyraxon-ecommerce-mryj6e4r",
+  "name": "zyraxon-ecommerce",
+  "type": "ecommerce",
+  "template": "ecommerce",
+  "directory": "C:\\Users\\MMP\\.zyraxon\\websites\\zyraxon-ecommerce-mryj6e4r",
+  "port": 3849,
+  "published": false,
+  "publishMethod": null,
+  "githubRepo": null,
+  "githubPagesUrl": null,
+  "customDomain": null,
+  "framework": "react",
+  "buildCommand": null,
+  "outputDir": null,
+  "created": "2026-07-24T05:59:54.129Z",
+  "updated": "2026-07-24T05:59:54.129Z",
+  "theme": {
+    "mode": "dark",
+    "primaryColor": "#6366f1",
+    "secondaryColor": "#8b5cf6",
+    "backgroundColor": "#0a0a0a",
+    "surfaceColor": "#1a1a1a",
+    "textColor": "#ffffff",
+    "mutedTextColor": "#a0a0a0",
+    "borderColor": "#2a2a2a",
+    "fontFamily": "'Inter', -apple-system, BlinkMacSystemFont, sans-serif",
+    "headingFont": "'Space Grotesk', 'Inter', sans-serif",
+    "borderRadius": "12px"
+  },
+  "media": {
+    "images": [],
+    "videos": [],
+    "audio": [],
+    "icons": []
+  },
+  "metadata": {
+    "title": "ZYRAXON Store - Premium E-Commerce",
+    "description": "Discover premium products with glassmorphism design",
+    "name": "ZYRAXON Store"
+  }
+}
